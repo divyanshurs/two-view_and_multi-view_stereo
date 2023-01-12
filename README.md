@@ -31,10 +31,10 @@ the depth planes to be swept over and stacking each resulting cost map along the
 
 Cost volume visualisation.
 <p align="center">
-  <img width="300" height="300" src="results/result.gif">
+  <img width="480" height="300" src="results/result.gif">
 </p>
 
 
 
 Final result of the Multi-view stereo reconstruction
-![alt text](results/rf.png)
+<img src="results/rf.png?raw=true" width="300" height="300">
