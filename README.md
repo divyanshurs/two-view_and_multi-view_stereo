@@ -10,14 +10,15 @@ The aim of this project was to use two view and multiple view images to form a 3
 - Reconstruction of the scene using disparity map and multi-pair aggregation.
 
 SSD
-![alt text](results/r1.png)
+<!-- ![alt text](results/r1.png) -->
+<img src="results/r1.png?raw=true" width="300" height="300">
 
 SAD
-![alt text](results/r2.png)
-
+<!-- ![alt text](results/r2.png) -->
+<img src="results/r2.png?raw=true" width="300" height="300"> 
 ZNCC
-![alt text](results/r3.png)
-
+<!-- ![alt text](results/r3.png) -->
+<img src="results/r3.png?raw=true" width="300" height="300">
 #### Multi view stereo 
 
 - Sweeped a series of imaginary depth planes (in this example, fronto-parallel
@@ -30,7 +31,7 @@ the depth planes to be swept over and stacking each resulting cost map along the
 
 Cost volume visualisation.
 <p align="center">
-  <img width="480" height="480" src="results/result.gif">
+  <img width="300" height="300" src="results/result.gif">
 </p>
 
 
